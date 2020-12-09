@@ -1,0 +1,16 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WT-SERVICES-PUBLIQUES-FRANCAIS"
+    id="id-2cef62edd8614f3789a027b0675c3bc2"
+    purpose="Réprésantation Archimate des Services Publiques Francais sur la base du POS V3.1.1 25/07/2016"
+    version="4.6.0">
+  <properties
+      key="Company"
+      value="Waacot Technology"/>
+  <properties
+      key="Author"
+      value="Laurent Vernet"/>
+  <properties
+      key="Contact"
+      value="laurent+spf@waacot.com"/>
+</archimate:ArchimateModel>
