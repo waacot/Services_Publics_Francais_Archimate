@@ -1,4 +1,5 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-f646c558e6c64c15be224316554465c9"/>
+    name="__Accueil__"
+    id="id-f646c558e6c64c15be224316554465c9"
+    viewpoint="layered"/>

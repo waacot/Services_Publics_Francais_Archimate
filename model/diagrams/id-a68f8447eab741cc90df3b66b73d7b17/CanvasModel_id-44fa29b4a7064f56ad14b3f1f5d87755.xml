@@ -1,0 +1,16 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="POS du Système d'Information des Services Publics Français"
+    id="id-44fa29b4a7064f56ad14b3f1f5d87755"
+    documentation="Cartographie des grandes fonctions des services publics&#xA;(Administrations de l'Etat &amp; Collectivités territoriales)&#xA;V3.1.1 du 25/07/2016&#xA;&#xA;Ce Plan d'Occupation des Sols (POS) représente un découpage fonctionnel du Système d'Information des services publics français. Chaque &quot;secteur fonctionnel&quot; représente un ensemble cohérent de fonctionnalités et de données, assurées&#xA;et gérées par le SI, au service des métiers de l'administration. Les 4 grandes domaines en périphérie (Pilotage &amp; Contrôle, Ressources &amp; Support, Echange, Données transverses) sont par nature transverses à l'ensemble des services publics&#xA;français. Pour en faciliter la lecture, les grands domaines métiers sont présentés au centre par Ministère, par type de collectivité territoriale, ou encore par fonctions transverses. Il s’agit bien d’un découpage fonctionnel et non organisationnel.&#xA;Attention, La taille des boites dans ce schéma n'est pas représentatif du volume des activités métiers sous-jacentes. Cette classification est avant tout un outil d’aide à la décision, au service de la maîtrise de la transformation du SI. Elle est par&#xA;nature évolutive.">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-1ce69ecdf80b41a68cb109f2ec8f13bc"
+      borderColor="#000000"
+      imagePath="images/_vQwhoDsLEeuA594921TSVA.png">
+    <bounds
+        width="2233"
+        height="1369"/>
+  </children>
+</canvas:CanvasModel>
