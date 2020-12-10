@@ -6,5 +6,5 @@ Réprésentation Archi(c)mate des Services Publics Francais.
 
 * Installer le Plugin Collaboration.
 
-* Configurer l'accès à ce dépot GIT dans la Plugin Collaboration.
+* Configurer l'accès à ce dépot GIT dans le Plugin Collaboration.
 
